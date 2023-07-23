@@ -3,7 +3,7 @@ title: How to Overcome from Mid-Level to Senior-Level Engineer
 date: 2021/3/18
 description: Becoming a senior-level engineer is a significant milestone in one's career.
 tag: career
-author: You
+author: Kimoy Catayas
 ---
 
 # How to Overcome from Mid-Level to Senior-Level Engineer
