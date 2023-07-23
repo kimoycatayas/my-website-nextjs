@@ -6,8 +6,6 @@ tag: career
 author: Kimoy Catayas
 ---
 
-Sure, here's the same blog with Markdown formatting:
-
 # Fostering a Strong Teamwork Mentality within Your Dev Team
 
 ## Introduction
