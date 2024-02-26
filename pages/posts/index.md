@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Portfolio
+title: Posts
 date: 2021-03-18
 ---
 
-# Portfolio
+# Posts
